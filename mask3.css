@@ -109,7 +109,7 @@ border: 1px white solid;
 
 .container
 {
-background: black !important;
+background: #636363 !important;
 }
 
 .wrapper2
@@ -119,12 +119,12 @@ background-size: 100% !important;
 }
 
 .inner-wrap {
-background: rgba(0,0,0,0) !important;
+background: #636363 !important;
 }
 
 
 .panel {
-background-color: black !important;
+background-color: #636363 !important;
 
 }
 
